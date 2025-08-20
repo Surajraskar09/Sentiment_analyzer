@@ -1,0 +1,1 @@
+## This is sentence analyzer which predict given sentence sentiment with polarity and subjectivity ( high polarity score means the text is either strongly positive(+1) or negative(-1), while a high subjectivity score means the text is expressing a personal opinion rather than a factual statement)
